@@ -1,0 +1,11 @@
+# Simple form
+
+## Setup
+* git clone -b develop `git@github.com:EvanBrightside/any_go_form.git`
+* go run any_form.go
+
+## Tech
+* GO 1.12.5
+
+## Usage
+* localhost:8080/view/www
