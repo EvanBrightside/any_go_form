@@ -5,7 +5,7 @@
 * go run any_form.go
 
 ## Tech
-* GO 1.12.5
+* Go 1.12.5
 
 ## Usage
 * localhost:8080/view/www
