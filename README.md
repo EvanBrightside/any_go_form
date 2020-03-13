@@ -1,7 +1,7 @@
 # Simple form
 
 ## Setup
-* git clone -b develop `git@github.com:EvanBrightside/any_go_form.git`
+* git clone `git@github.com:EvanBrightside/any_go_form.git`
 * go run any_form.go
 
 ## Tech
